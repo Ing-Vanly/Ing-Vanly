@@ -64,7 +64,7 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 - 📧 Email: [ingvanly168@gmail.com](mailto:ingvanly168@gmail.com)  
 - 💬 Telegram: [@UngVanly](https://t.me/UngVanly)  
 - 🌐 Portfolio: [vanly-portfolio.vercel.app](https://vanly-portfolio.vercel.app/)  
-- 📘 Facebook: [Vanly](https://www.facebook.com/share/1FwgaKhWW1/?mibextid=wwXIfr)
+- 📘 Facebook: [Oung Vanly](https://www.facebook.com/share/1FwgaKhWW1/?mibextid=wwXIfr)
 
 ---
 
