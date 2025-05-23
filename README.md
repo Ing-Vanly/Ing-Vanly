@@ -5,7 +5,6 @@ I'm a passionate software developer who loves turning ideas into real-world appl
 ## 👯 Collaboration Interests
 I’m open to collaborate on open-source projects that:
 - Improve developer productivity.
-- Involve mobile and web app integration.
 - Use AI to solve real-world problems.
   
 ## 🛠️ Daily Essentials in My Dev Kit
@@ -29,10 +28,6 @@ I’m open to collaborate on open-source projects that:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ing-Vanly&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/004956936) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
