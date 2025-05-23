@@ -2,8 +2,6 @@
 
 I'm a passionate software developer who loves turning ideas into real-world applications. Welcome to my GitHub!
 
-##🔭 I’m currently working on building scalable web applications with Laravel.
-
 ## 👯 Collaboration Interests
 I’m open to collaborate on open-source projects that:
 - Improve developer productivity.
