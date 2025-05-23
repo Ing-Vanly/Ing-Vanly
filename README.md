@@ -12,7 +12,7 @@ I’m open to collaborate on open-source projects that:
 - **Laravel Telescope & Debugbar** — my go-to tools for digging deep into app performance and troubleshooting.
 - **Git & GitHub** — the backbone of my code management and team collaboration.
 - **Figma** — where design ideas come to life and I collaborate closely with designers.
-- 
+  
 ## 📫 How to Reach Me
 - Email: ingvanly168@gmail.com
 - Facebook: [Vanly on Facebook](https://www.facebook.com/share/1FwgaKhWW1/?mibextid=wwXIfr)
@@ -28,7 +28,5 @@ I’m open to collaborate on open-source projects that:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ing-Vanly&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+
 Thanks for stopping by! Feel free to connect or explore my repositories. Let’s build something amazing together! 🚀
