@@ -68,7 +68,7 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 
 ---
 
-## ☕ Support My Work
+## 小的时候想快点长大，长大了以后 才知道 大人的生活一点也不容易。
 
 If you find my work helpful, consider supporting me:
 
