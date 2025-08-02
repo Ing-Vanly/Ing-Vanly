@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vanly</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4e/f1/c5/4ef1c5b1e546c32d68f5fc61c5bbf675.gif" width="150" alt="anime avatar" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vanly;Full-Stack+Developer;Laravel+%7C+Vue+%7C+Flutter;I+Love+Building+Cool+Stuff!" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   💻 Passionate Full-Stack Developer | 💡 Laravel Specialist | 🚀 Builder of Practical Digital Solutions
 </p>
