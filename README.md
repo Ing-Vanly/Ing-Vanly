@@ -1,13 +1,22 @@
+<!-- Top Anime Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4e/f1/c5/4ef1c5b1e546c32d68f5fc61c5bbf675.gif" width="150" alt="anime avatar" />
+  <img src="https://i.pinimg.com/originals/c3/5b/4d/c35b4d1e4d0f2fd3f7a6b7a6ff3f71c3.gif" width="100%" alt="anime banner" />
 </p>
 
+<!-- Typing with Animated Waving Hand -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vanly;Full-Stack+Developer;Laravel+%7C+Vue+%7C+Flutter;I+Love+Building+Cool+Stuff!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> 
+  Hi, I'm 
+  <span style="color:#f75c7e; font-weight:bold;">Vanly</span>
 </h1>
 
 <p align="center">
   💻 Passionate Full-Stack Developer | 💡 Laravel Specialist | 🚀 Builder of Practical Digital Solutions
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Laravel+%7C+Vue+%7C+Flutter+Lover;Always+learning+something+new;Let's+build+great+things+together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,6 +37,11 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 ---
 
 ## 🧰 Tech Stack
+
+<p align="center">
+  <!-- Animated Loading Bar -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200px" alt="loading bar" />
+</p>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
