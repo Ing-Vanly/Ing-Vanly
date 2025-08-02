@@ -72,9 +72,9 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 
 If you find my work helpful, consider supporting me:
 
-[![Buy Me A Coffee](https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg)](https://buymeacoffee.com/Melancholy)
-[![Ko-Fi](https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg)](https://ko-fi.com/Melancholy)
-[![Patreon](https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg)](https://patreon.com/Melancholy)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white)](https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg)
 
 ---
 
