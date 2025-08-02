@@ -72,7 +72,9 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 
 If you find my work helpful, consider supporting me:
 
-Hi 
+[![Buy Me A Coffee](https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg)](https://buymeacoffee.com/Melancholy)
+[![Ko-Fi](https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg)](https://ko-fi.com/Melancholy)
+[![Patreon](https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg)](https://patreon.com/Melancholy)
 
 ---
 
