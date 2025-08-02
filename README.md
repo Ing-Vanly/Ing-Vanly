@@ -72,14 +72,42 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 
 If you find my work helpful, consider supporting me:
 
-<p align="center">
-  <a href="https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
-  </a>
-</p>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Support Me</title>
+  <style>
+    body { text-align: center; font-family: Arial, sans-serif; margin-top: 100px; }
+    img.popup { max-width: 90%; display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.5); z-index: 9999; background: white; padding: 10px; }
+    #overlay { display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.7); z-index:9998; }
+    button { margin: 10px; padding: 10px 20px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px; }
+    .coffee { background-color: #FFDD00; color: black; }
+    .patreon { background-color: #F96854; color: white; }
+  </style>
+</head>
+<body>
+
+  <button class="coffee" onclick="showPopup()">Buy Me A Coffee</button>
+  <button class="patreon" onclick="showPopup()">Patreon</button>
+
+  <div id="overlay" onclick="hidePopup()"></div>
+  <img id="popupImg" class="popup" src="https://i.postimg.cc/3x0n3pjg/photo-1-2025-08-02-15-03-14.jpg" onclick="hidePopup()">
+
+  <script>
+    function showPopup() {
+      document.getElementById('popupImg').style.display = 'block';
+      document.getElementById('overlay').style.display = 'block';
+    }
+    function hidePopup() {
+      document.getElementById('popupImg').style.display = 'none';
+      document.getElementById('overlay').style.display = 'none';
+    }
+  </script>
+
+</body>
+</html>
+
 
 ---
 
