@@ -4,11 +4,12 @@
 </p>
 
 <!-- Typing with Animated Waving Hand -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> 
-  Hi, I'm 
-  <span style="color:#f75c7e; font-weight:bold;">Vanly</span>
-</h1>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vanly!" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   💻 Passionate Full-Stack Developer | 💡 Laravel Specialist | 🚀 Builder of Practical Digital Solutions
@@ -16,8 +17,9 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Laravel+%7C+Vue+%7C+Flutter+Lover;Always+learning+something+new;Let's+build+great+things+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Laravel+%7C+Vue+%7C+Javascript+Lover;Always+learning+something+new;Let's+build+great+things+together!" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -38,10 +40,7 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <!-- Animated Loading Bar -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200px" alt="loading bar" />
-</p>
+
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
