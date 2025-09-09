@@ -47,14 +47,11 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
 
 ---
 
@@ -85,6 +82,41 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 - 💬 Telegram: [@UngVanly](https://t.me/UngVanly)  
 - 🌐 Portfolio: [vanly-portfolio.vercel.app](https://vanly-portfolio.vercel.app/)  
 - 📘 Facebook: [Oung Vanly](https://www.facebook.com/share/1FwgaKhWW1/?mibextid=wwXIfr)
+
+<div align="flex-start">
+  <a href="https:www.linkedin.com/in/
+ing-vanly-8802392b8
+" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://discord.gg/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://t.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://tiktok.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://wechat.com/" target="_blank">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+  </a>
+  <a href="https://wa.me/" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
 
 ---
 
