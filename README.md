@@ -40,18 +40,24 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 
 ## 🧰 Tech Stack
 
+<div align="center">
+    <h3> Frontend:</h3>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,typescript,react,nextjs,vue"/>
+    <br>
+    <h3> Libraries:</h3>
+    <img src="https://skillicons.dev/icons?i=vite,bootstrap,tailwind,figma,postman"/>
+    <br>
+    <h3> Backend:</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql"/>
+    <br>
+    <h3> Tools:</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,bash,stackoverflow,vercel"/>
+<h3>Operating Systems:</h3>
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,apple"/>
+<br>
 
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+  </a>
+</div>
 
 ---
 
