@@ -91,10 +91,10 @@ I'm a developer who turns ideas into reality through clean code and creative thi
   <a href="https://www.instagram.com/ingvanly?igsh=cjVoZ3k1cHV3MzM%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="ingvanly168@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="[https://youtube.com/](https://youtube.com/@ingvanly?si=u5R_SzmBbfrs2zqQ)" target="_blank">
+<a href="mailto:ingvanly168@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+  <a href="https://youtube.com/@ingvanly?si=PtQ_iVnm_p-N7ZEh" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://discord.gg/4Rt2QTCY" target="_blank">
