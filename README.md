@@ -84,36 +84,36 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 - 📘 Facebook: [Oung Vanly](https://www.facebook.com/share/1FwgaKhWW1/?mibextid=wwXIfr)
 
 <div align="flex-start">
-  <a href="https:www.linkedin.com/in/
-ing-vanly-8802392b8
+  <a href="https://www.linkedin.com/in/ing-vanly-8802392b8/
 " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/ingvanly?igsh=cjVoZ3k1cHV3MzM%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="ingvanly158@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://youtube.com/" target="_blank">
+  <a href="[https://youtube.com/](https://youtube.com/@ingvanly?si=u5R_SzmBbfrs2zqQ)" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://discord.gg/" target="_blank">
+  <a href="https://discord.gg/4Rt2QTCY" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://t.me/" target="_blank">
+  <a href="https://t.me/Ingvanly" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://facebook.com/" target="_blank">
+  <a href="https://www.facebook.com/share/16wBYEAfcB/?mibextid=wwXIfr" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://tiktok.com/" target="_blank">
+  <a href="https://www.tiktok.com/@ingvanly?is_from_webapp=1&sender_device=pc" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://wechat.com/" target="_blank">
+  <a href="https://u.wechat.com/Ingvanly
+" target="_blank">
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
   </a>
-  <a href="https://wa.me/" target="_blank">
+  <a href="https://wa.me/0967776599" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
