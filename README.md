@@ -79,19 +79,19 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 ## 📫 Connect With Me
 
 - 📧 Email: [ingvanly168@gmail.com](mailto:ingvanly168@gmail.com)  
-- 💬 Telegram: [@UngVanly](https://t.me/UngVanly)  
+- 💬 Telegram: [@Ingvanly](https://t.me/Ingvanly)  
 - 🌐 Portfolio: [vanly-portfolio.vercel.app](https://vanly-portfolio.vercel.app/)  
 - 📘 Facebook: [Oung Vanly](https://www.facebook.com/share/1FwgaKhWW1/?mibextid=wwXIfr)
 
 <div align="flex-start">
-  <a href="[https://linked.com/]https://www.linkedin.com/in/ing-vanly-8802392b8/
+  <a href="https://www.linkedin.com/in/ing-vanly-8802392b8/
 " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/ingvanly?igsh=cjVoZ3k1cHV3MzM%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="ingvanly158@gmail.com" target="_blank">
+  <a href="ingvanly168@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="[https://youtube.com/](https://youtube.com/@ingvanly?si=u5R_SzmBbfrs2zqQ)" target="_blank">
@@ -119,8 +119,6 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 </div>
 
 ---
-
-## 小的时候想快点长大，长大了以后 才知道 大人的生活一点也不容易。
 
 If you find my work helpful, consider supporting me:
 
