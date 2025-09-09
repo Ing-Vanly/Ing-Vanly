@@ -84,7 +84,7 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 - 📘 Facebook: [Oung Vanly](https://www.facebook.com/share/1FwgaKhWW1/?mibextid=wwXIfr)
 
 <div align="flex-start">
-  <a href="https://www.linkedin.com/in/ing-vanly-8802392b8/
+  <a href="[https://linked.com/]https://www.linkedin.com/in/ing-vanly-8802392b8/
 " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
