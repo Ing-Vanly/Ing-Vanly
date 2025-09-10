@@ -140,6 +140,16 @@ If you find my work helpful, consider supporting me:
 ---
 
 <p align="center">Thanks for stopping by — let’s build something amazing together! 🚀</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-snake-dark.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-snake.svg">
+  </picture>
+</div>
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-snake-dark.svg" alt="GitHub Snake dark" />
+</div> -->
+
 
 
 
