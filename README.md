@@ -53,7 +53,7 @@ I'm a developer who turns ideas into reality through clean code and creative thi
     <h3> Tools:</h3>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,bash,stackoverflow,vercel"/>
 <h3>Operating Systems:</h3>
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,apple"/>
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,apple"/>
 <br>
 
   </a>
