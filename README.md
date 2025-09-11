@@ -122,6 +122,9 @@ I'm a developer who turns ideas into reality through clean code and creative thi
   <a href="https://wa.me/0967776599" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
