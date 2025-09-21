@@ -1,11 +1,3 @@
-<!-- Top Anime Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/c3/5b/4d/c35b4d1e4d0f2fd3f7a6b7a6ff3f71c3.gif" width="100%" alt="anime banner" />
-</p>
-
-<!-- Typing with Animated Waving Hand -->
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vanly!" alt="Typing SVG" />
 </p>
