@@ -69,14 +69,16 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ing-Vanly&show_icons=true&theme=radical" alt="Vanly's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ing-Vanly&show_icons=true&theme=radical&cache_seconds=86400&v=1" alt="Vanly's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ing-Vanly&theme=radical" alt="Vanly's GitHub Streak" />
+<!-- <img src="https://streak-stats-vanly.vercel.app?user=Ing-Vanly&theme=radical" alt="Vanly's GitHub Streak" /> -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-Vanly&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-Vanly&layout=compact&theme=radical&cache_seconds=86400&v=1" alt="Top Languages" />
 </p>
 
 ---
+
+
 
 ## 📫 Connect With Me
 
