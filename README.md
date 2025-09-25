@@ -88,6 +88,7 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 - 📘 Facebook: <a href="https://www.facebook.com/share/1CRxHwT6TT/?mibextid=wwXIfr" target="_blank">Ing Vanly</a>  
 
 
+
 <div align="flex-start">
   <a href="https://www.linkedin.com/in/ing-vanly-8802392b8/
 " target="_blank">
@@ -108,7 +109,7 @@ I'm a developer who turns ideas into reality through clean code and creative thi
   <a href="https://t.me/Ingvanly" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.facebook.com/share/16wBYEAfcB/?mibextid=wwXIfr" target="_blank">
+  <a href="https://www.facebook.com/share/16wBYEAfcB/?mibextid=wwXIfr](https://www.facebook.com/share/1CRxHwT6TT/?mibextid=wwXIfr" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.tiktok.com/@ingvanly?is_from_webapp=1&sender_device=pc" target="_blank">
