@@ -78,16 +78,12 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 
 ---
 
-
-
 ## 📫 Connect With Me
 
 - 📧 Email: <a href="mailto:ingvanly168@gmail.com" target="_blank">ingvanly168@gmail.com</a>  
 - 💬 Telegram: <a href="https://t.me/Ingvanly" target="_blank">@Ingvanly</a>  
 - 🌐 Portfolio: <a href="https://vanly-portfolio.vercel.app/" target="_blank">vanly-portfolio.vercel.app</a>  
 - 📘 Facebook: <a href="https://www.facebook.com/share/1CRxHwT6TT/?mibextid=wwXIfr" target="_blank">Ing Vanly</a>  
-
-
 
 <div align="flex-start">
   <a href="https://www.linkedin.com/in/ing-vanly-8802392b8/
