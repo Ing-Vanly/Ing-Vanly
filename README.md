@@ -23,9 +23,10 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 ## 🤝 Open to Collaborate On
 
 - 🚀 Tools that boost developer productivity  
-- 🤖 AI-powered real-world solutions  
-- 📱 Cross-platform mobile & web apps  
-- 🌐 Laravel, Vue.js, or Flutter-based systems  
+- 🤖 AI-powered real-world solutions   
+- 🌐 Laravel & React.js web applications
+- ⚡ JavaScript & Python-based systems
+- ☁️ RESTful APIs & backend integrations
 
 ---
 
@@ -54,10 +55,14 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 
 ## 🛠️ My Dev Toolkit
 
-- **VS Code** – customized with powerful extensions  
+- **VS Code & Cursor** – customized with powerful extensions and AI-assisted coding
 - **Laravel Telescope & Debugbar** – for clean debugging and performance insight  
 - **Git + GitHub** – version control and team synergy  
 - **Figma** – seamless design-developer collaboration  
+- **MySQL & PostgreSQL** – reliable database solutions
+- **Redis**  – caching and performance optimization
+- **Linux & CLI tools** – smooth server management
+- **Postman** – API testing and quick endpoint validation
 
 ---
 
