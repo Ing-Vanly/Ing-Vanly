@@ -36,13 +36,13 @@ I'm a developer who turns ideas into reality through clean code and creative thi
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,typescript,react,nextjs,vue"/>
     <br>
     <h3> Libraries:</h3>
-    <img src="https://skillicons.dev/icons?i=vite,bootstrap,tailwind,figma,postman"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind"/>
     <br>
     <h3> Backend:</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql"/>
     <br>
     <h3> Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,bash,stackoverflow,vercel"/>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,bash,stackoverflow,vercel,figma,postman"/>
 <h3>Operating Systems:</h3>
 <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,apple"/>
 <br>
