@@ -39,7 +39,7 @@ I'm a developer who turns ideas into reality through clean code and creative thi
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind"/>
     <br>
     <h3> Backend Development :</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,laravel,php"/>
     <br>
     <h3> Tools :</h3>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,bash,stackoverflow,vercel,figma,postman"/>
