@@ -43,6 +43,7 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
 
 <h3>Libraries:</h3>
+<img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="40" alt="Bootstrap Logo"/>
 <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" height="40" alt="Tailwind CSS"/>
 
 <h3>Backend Development:</h3>
@@ -52,6 +53,8 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel"/>
 
 <h3>Tools:</h3>
+<img src="https://www.svgrepo.com/show/353782/git-icon.svg" height="40" alt="Git Logo"/>
+<img src="https://www.svgrepo.com/show/353785/gitlab.svg" height="40" alt="GitLab Logo"/>
 <img src="https://www.svgrepo.com/show/439171/github.svg" height="40" alt="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
@@ -168,11 +171,3 @@ If you find my work helpful, consider supporting me:
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="GitHub Snake dark" />
-</div> -->
-
-
-
