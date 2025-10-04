@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=header" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vanly!" alt="Typing SVG" />
 </p>
 
@@ -171,3 +175,8 @@ If you find my work helpful, consider supporting me:
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer"/>
+</p>
