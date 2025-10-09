@@ -1,20 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip,100:00c6ff&height=100&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=100&section=header" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vanly!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vanly!" alt="Typing SVG" />
 </p>
 
 <p align="center">
   💻 Passionate Full-Stack Developer | 💡 Laravel Specialist | 🚀 Builder of Practical Digital Solutions
 </p>
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip+Code&weight=600&size=24&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Laravel+%7C+Vue+%7C+Javascript+Lover;Always+learning+something+new;Let's+build+great+things+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Laravel+%7C+Vue+%7C+Javascript+Lover;Always+learning+something+new;Let's+build+great+things+together!" alt="Typing SVG" />
 </p>
-
 
 ---
 
@@ -35,42 +33,41 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 ---
 
 ## 🧰 Tech Stack
+
 <div align="center">
 
-<h3>Frontend Development:</h3>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="TypeScript"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="React"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip"/>
+### Frontend Development:
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
+<img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js"/>
 
-<h3>Libraries:</h3>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="Bootstrap Logo"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="Tailwind CSS"/>
+### Libraries:
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS"/>
 
-<h3>Backend Development:</h3>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="PHP"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="Laravel"/>
+### Backend Development:
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"/>
+<img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel"/>
 
-<h3>Tools:</h3>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="Git Logo"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="GitLab Logo"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="VSCode"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="Figma"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="Postman"/>
+### Tools:
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab"/>
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode"/>
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/>
+<img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/>
 
-<h3>Operating Systems:</h3>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="Ubuntu"/>
-<img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" height="40" alt="Linux"/>
+### Operating Systems:
+<img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
 
 </div>
-
-
 
 ---
 
@@ -81,7 +78,7 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 - **Git + GitHub** – version control and team synergy  
 - **Figma** – seamless design-developer collaboration  
 - **MySQL & PostgreSQL** – reliable database solutions
-- **Redis**  – caching and performance optimization
+- **Redis** – caching and performance optimization
 - **Linux & CLI tools** – smooth server management
 - **Postman** – API testing and quick endpoint validation
 
@@ -90,93 +87,82 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="Vanly's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ing-Vanly&show_icons=true&theme=radical" alt="Vanly's GitHub Stats" />
   <br/>
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="Vanly's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ing-Vanly&theme=radical" alt="Vanly's GitHub Streak" />
   <br/>
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-Vanly&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: [https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip](https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip)
-- 💬 Telegram: [@Ingvanly](https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip)
-- 🌐 Portfolio: [https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip](https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip)
-- 📘 Facebook: [Ing Vanly](https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip)
+- 📧 Email: [ingvanly@example.com](mailto:ingvanly@example.com)
+- 💬 Telegram: [@Ingvanly](https://t.me/Ingvanly)
+- 🌐 Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com)
+- 📘 Facebook: [Ing Vanly](https://www.facebook.com/ingvanly)
+
 <br>
-<!-- Facebook -->
-<a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip%https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="Facebook"/>
-</a>
 
-<!-- Instagram -->
-<a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip%3D&utm_source=qr">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip%https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="Instagram"/>
-</a>
-
-<!-- LinkedIn -->
-<a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip%https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="LinkedIn"/>
-</a>
-
-<!-- YouTube -->
-<a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip%https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="YouTube"/>
-</a>
-
-<!-- Discord -->
-<a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip%https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="Discord"/>
-</a>
-
-<!-- Telegram -->
-<a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip%https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="Telegram"/>
-</a>
-
-<!-- WhatsApp -->
-<a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip%https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="WhatsApp"/>
-</a>
-
-<!-- TikTok -->
-<a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip%https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="TikTok"/>
-</a>
-
-<!-- Twitter / X -->
-<a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" target="_blank">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip%https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="Twitter / X"/>
-</a>
+<!-- Social Media Icons -->
+<p align="center">
+  <a href="https://www.facebook.com/ingvanly">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/ingvanly">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ingvanly">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@ingvanly">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://discord.gg/yourdiscord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://t.me/Ingvanly">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://wa.me/1234567890">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.tiktok.com/@ingvanly">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://twitter.com/ingvanly">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/>
+  </a>
+</p>
 
 ---
+
+## ☕ Support Me
 
 If you find my work helpful, consider supporting me:
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  <a href="https://www.buymeacoffee.com/ingvanly" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
-  <a href="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip" alt="Patreon" />
+  <a href="https://www.patreon.com/ingvanly" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
   </a>
 </p>
 
-
 ---
 
-<p align="center">Thanks for stopping by — let’s build something amazing together! 🚀</p>
+<p align="center">Thanks for stopping by — let's build something amazing together! 🚀</p>
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-contribution-grid-snake.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/main/elocutionize/Ing-Vanly.zip,100:00c6ff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=100&section=footer"/>
 </p>
