@@ -91,13 +91,13 @@ I'm a developer who turns ideas into reality through clean code and creative thi
   <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-contribution-grid-snake-dark.svg?v=2" alt="Snake animation" />
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+<!-- <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 ## 🎯 Current GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ing-Vanly&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Streak Stats" />
-</p>
+</p> -->
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
