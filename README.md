@@ -156,6 +156,10 @@ I'm a developer who turns ideas into reality through clean code and creative thi
   <a href="weixin://dl/addfriend?Ingvanly">
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
   </a>
+  <a href="#" onclick="alert('Add me on WeChat: Ingvanly')">
+  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+</a>
+
   <a href="https://xhslink.com/m/8bFhr3jB5Pa">
     <img src="https://img.shields.io/badge/XiaoHongShu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="XiaoHongShu"/>
   </a>
