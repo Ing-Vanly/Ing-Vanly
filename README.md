@@ -117,41 +117,47 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:ingvanly@example.com">
+  <a href="mailto:ingvanly168@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/Ingvanly">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://your-portfolio-site.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/ingvanly">
+  <a href="https://www.linkedin.com/in/ing-vanly-8802392b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/ingvanly">
+  <a href="https://www.facebook.com/share/1CRxHwT6TT/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/ingvanly">
+  <a href="https://www.instagram.com/ingvanly?igsh=cjVoZ3k1cHV3MzM%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/@ingvanly">
+  <a href="https://youtube.com/@ingvanly?si=PtQ_iVnm_p-N7ZEh">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://twitter.com/ingvanly">
+  <a href="https://x.com/ingvanly168?s=21">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.tiktok.com/@ingvanly">
+  <a href="https://www.tiktok.com/@ingvanly?is_from_webapp=1&sender_device=pc">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://discord.gg/yourdiscord">
+  <a href="https://discord.gg/4Rt2QTCY">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://wa.me/1234567890">
+  <a href="‎https://wa.link/wmwzt2">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="weixin://dl/addfriend?Ingvanly">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+  </a>
+  <a href="https://www.xiaohongshu.com/">
+    <img src="https://img.shields.io/badge/XiaoHongShu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="XiaoHongShu"/>
   </a>
 </p>
 
