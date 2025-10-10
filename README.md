@@ -153,10 +153,9 @@ I'm a developer who turns ideas into reality through clean code and creative thi
   <a href="‎https://wa.link/wmwzt2">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-<a href="weixin://dl/addfriend?Ingvanly">
-  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
-</a>
-
+  <a href="https://xhslink.com/m/8bFhr3jB5Pa">
+   <img src="https://img.shields.io/badge/XiaoHongShu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="XiaoHongShu"/>
+  </a>
 </p>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
