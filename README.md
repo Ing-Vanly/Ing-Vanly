@@ -161,5 +161,3 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=100&section=footer"/>
 </p>
-
-n
