@@ -157,7 +157,6 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=100&section=footer"/>
 </p>
