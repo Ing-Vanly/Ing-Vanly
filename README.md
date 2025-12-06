@@ -69,16 +69,6 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ing-Vanly&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
- </p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-Vanly&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ing-Vanly&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 <!-- GitHub Contribution Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-contribution-grid-snake-dark.svg?v=2" alt="Snake animation" />
