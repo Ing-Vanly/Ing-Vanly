@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vanly!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vanly!" />
 </p>
 
 <p align="center">
@@ -11,24 +11,25 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Laravel+%7C+Vue+%7C+Javascript+Lover;Always+learning+something+new;Let's+build+great+things+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Laravel+%7C+Vue+%7C+JavaScript+Lover;Always+learning+something+new;Let's+build+great+things+together!" />
 </p>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 ## 🌟 About Me
 
-I'm a developer who turns ideas into reality through clean code and creative thinking. I enjoy crafting scalable web applications, collaborating on open-source, and learning new technologies that push the boundaries of innovation.
+I'm a developer who turns ideas into reality through clean code and creative thinking.  
+I enjoy building scalable web applications, collaborating on open-source projects, and continuously learning new technologies that push boundaries.
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 ## 🤝 Open to Collaborate On
 
-- 🚀 Tools that boost developer productivity  
-- 🤖 AI-powered real-world solutions   
-- 🌐 Laravel & web applications
-- ⚡ JavaScript & Python-based systems
-- ☁️ RESTful APIs & backend integrations
+- 🚀 Developer productivity tools  
+- 🤖 AI-powered real-world solutions  
+- 🌐 Laravel & modern web applications  
+- ⚡ JavaScript & Python-based systems  
+- ☁️ RESTful APIs & backend integrations  
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
@@ -62,7 +63,7 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
@@ -71,81 +72,38 @@ I'm a developer who turns ideas into reality through clean code and creative thi
 
 <!-- GitHub Contribution Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-contribution-grid-snake-dark.svg?v=2" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-contribution-grid-snake-dark.svg?v=2" />
 </div>
 
-<!-- <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-## 🎯 Current GitHub Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ing-Vanly&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Streak Stats" />
-</p> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ing-Vanly&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-Vanly&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ing-Vanly&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-contribution-grid-snake-dark.svg?v=2" alt="Snake animation" />
+</div>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"> -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 ## 🛠️ My Dev Toolkit
 
-- **VS Code & Cursor** – customized with powerful extensions and AI-assisted coding
-- **Laravel Telescope & Debugbar** – for clean debugging and performance insight  
-- **Git + GitHub** – version control and team synergy  
-- **Figma** – seamless design-developer collaboration  
-- **MySQL & PostgreSQL** – reliable database solutions
-- **Redis** – caching and performance optimization
-- **Linux & CLI tools** – smooth server management
-- **Postman** – API testing and quick endpoint validation
+- **VS Code & Cursor** – AI-assisted development  
+- **Laravel Telescope & Debugbar** – performance & debugging  
+- **Git & GitHub** – version control & collaboration  
+- **Figma** – design-to-code workflow  
+- **MySQL & PostgreSQL** – reliable database solutions  
+- **Redis** – caching & performance optimization  
+- **Linux & CLI tools** – smooth server management  
+- **Postman** – API testing  
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:ingvanly168@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://t.me/Ingvanly">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-<a href="https://ing-vanly-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-  <a href="https://www.linkedin.com/in/ing-vanly-8802392b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/share/1CRxHwT6TT/?mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/ingvanly?igsh=cjVoZ3k1cHV3MzM%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://youtube.com/@ingvanly?si=PtQ_iVnm_p-N7ZEh">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://x.com/ingvanly168?s=21">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.tiktok.com/@ingvanly?is_from_webapp=1&sender_device=pc">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://discord.gg/4Rt2QTCY">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="‎https://wa.link/wmwzt2">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://xhslink.com/m/8bFhr3jB5Pa">
-   <img src="https://img.shields.io/badge/XiaoHongShu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="XiaoHongShu"/>
-  </a>
-</p>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=100&section=footer"/>
-</p>
+## 📫 Let's Connect! <p align="center"> <a href="mailto:ingvanly168@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://t.me/Ingvanly"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> <a href="https://ing-vanly-portfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a> <a href="https://www.linkedin.com/in/ing-vanly-8802392b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p> <p align="center"> <a href="https://www.facebook.com/share/1CRxHwT6TT/?mibextid=wwXIfr"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://www.instagram.com/ingvanly?igsh=cjVoZ3k1cHV3MzM%3D&utm_source=qr"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://youtube.com/@ingvanly?si=PtQ_iVnm_p-N7ZEh"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a> <a href="https://x.com/ingvanly168?s=21"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/> </a> <a href="https://www.tiktok.com/@ingvanly?is_from_webapp=1&sender_device=pc"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/> </a> <a href="https://discord.gg/4Rt2QTCY"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> <a href="‎https://wa.link/wmwzt2"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> <a href="https://xhslink.com/m/8bFhr3jB5Pa"> <img src="https://img.shields.io/badge/XiaoHongShu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="XiaoHongShu"/> </a> </p> <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=100&section=footer"/> </p>
