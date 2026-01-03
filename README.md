@@ -23,16 +23,6 @@ I enjoy building scalable web applications, collaborating on open-source project
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-## 🤝 Open to Collaborate On
-
-- 🚀 Developer productivity tools  
-- 🤖 AI-powered real-world solutions  
-- 🌐 Laravel & modern web applications  
-- ⚡ JavaScript & Python-based systems  
-- ☁️ RESTful APIs & backend integrations  
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
