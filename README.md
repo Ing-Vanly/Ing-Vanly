@@ -10,9 +10,9 @@
   💻 Passionate Full-Stack Developer | 💡 Laravel Specialist | 🚀 Builder of Practical Digital Solutions
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Laravel+%7C+Vue+%7C+JavaScript+Lover;Always+learning+something+new;Let's+build+great+things+together!" />
-</p>
+</p> -->
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
