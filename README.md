@@ -10,11 +10,11 @@
 
 ## About Me
 
-I'm **Vanly**, a passionate Full-Stack Developer who enjoys transforming ideas into reliable, scalable, and user-friendly applications.
+I'm **Vanly**, a passionate **Web Application Developer** who enjoys transforming ideas into reliable, scalable, and user-friendly web applications.
 
-I work across the full development stack from modern frontend frameworks to robust backend services, databases, cloud infrastructure, and DevOps workflows. I enjoy solving real-world problems with clean architecture, efficient code, and intuitive user experiences.
+I work across the full web development stack—from modern frontend frameworks to robust backend services, databases, cloud infrastructure, and DevOps workflows. I enjoy solving real-world problems through clean architecture, efficient code, and intuitive user experiences.
 
-I'm always exploring new technologies, contributing to open-source projects, and continuously improving my skills to build better software every day.
+I'm always exploring new technologies, contributing to open-source projects, and continuously improving my skills to build better web applications every day.
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
