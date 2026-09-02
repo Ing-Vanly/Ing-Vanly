@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&repeat=false&width=500&lines=Hi,+I'm+Vanly!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&lines=Hi,+I'm+Vanly!" alt="Typing SVG" />
 </p>
-
-<!-- <p align="center">
-  💻 <strong>Full-Stack Developer</strong> • ☁️ <strong>Cloud & DevOps Enthusiast</strong> • 🚀 <strong>Open-Source Contributor</strong> • 💡 <strong>Lifelong Learner</strong>
-</p> -->
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 ## About Me
 
@@ -15,9 +9,6 @@ I'm **Vanly**, a passionate **Web Application Developer** who enjoys transformin
 I work across the full web development stack—from modern frontend frameworks to robust backend services, databases, cloud infrastructure, and DevOps workflows. I enjoy solving real-world problems through clean architecture, efficient code, and intuitive user experiences.
 
 I'm always exploring new technologies, contributing to open-source projects, and continuously improving my skills to build better web applications every day.
-
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 ## Tech Stack & Tools
 
@@ -69,14 +60,9 @@ I'm always exploring new technologies, contributing to open-source projects, and
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-
-<!-- GitHub Contribution Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ing-Vanly/Ing-Vanly/output/github-contribution-grid-snake-dark.svg?v=2" />
 </div>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 ## Let's Connect!
 
